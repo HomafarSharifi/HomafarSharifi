@@ -35,9 +35,9 @@
 
 ## A little about me
 
-- I’m **[Your Name]** (`[@HomafarSharifi](https://github.com/HomafarSharifi)`).
+- I’m **Homafar Sharifi** (`[@HomafarSharifi](https://github.com/HomafarSharifi)`).
 - I care about the connection between **good engineering** and **good product experiences**.
-- I’m currently learning **[current topic]** and practicing **[current habit or skill]**.
+- I’m currently learning **Database** and practicing **Python**.
 - I’m working toward building software that is useful, reliable, and easy to use.
 
 ## Connect

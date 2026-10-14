@@ -1,7 +1,7 @@
 <!-- Copy into the root README.md of the GitHub profile repository and replace every placeholder. -->
 
 <div align="center">
-  <img src="assets/profile-hero.svg" alt="Roadmap-first software engineering profile banner" width="100%">
+  <img src="assets/hero.svg" alt="Roadmap-first software engineering profile banner" width="100%">
 </div>
 
 <div align="center">

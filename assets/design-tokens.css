@@ -1,0 +1,17 @@
+/*
+ * Roadmap-first GitHub profile README color tokens.
+ * GitHub Markdown does not load this stylesheet; tokens document the palette
+ * and provide a source of truth for Figma color styles and SVG edits.
+ */
+:root {
+  --color-canvas: #0B0F14;
+  --color-surface: #111821;
+  --color-surface-soft: #151F2B;
+  --color-blue: #3B82F6;
+  --color-blue-bright: #60A5FA;
+  --color-blue-muted: #1D4ED8;
+  --color-text: #F3F6FA;
+  --color-text-muted: #A5B1C2;
+  --color-line: #2A3543;
+  --color-success: #34D399;
+}

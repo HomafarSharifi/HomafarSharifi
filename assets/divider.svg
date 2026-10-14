@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-labelledby="title desc">
+  <title id="title">Electric blue profile section divider</title>
+  <desc id="desc">A fine charcoal line interrupted by a small electric blue roadmap marker.</desc>
+  <!-- Tokens: blue #3B82F6, bright blue #60A5FA, line #2A3543 -->
+  <g id="divider" fill="none" stroke-linecap="round">
+    <path d="M0 24H560M640 24H1200" stroke="#2A3543" stroke-width="2"/>
+    <path d="M560 24h24l16-12 16 24 16-12h8" stroke="#3B82F6" stroke-width="2"/>
+    <circle cx="600" cy="24" r="4" fill="#60A5FA" stroke="none"/>
+  </g>
+</svg>

@@ -1,74 +1,48 @@
-<<<<<<< HEAD
-# Roadmap-first GitHub profile README
+<!-- Copy into the root README.md of the GitHub profile repository and replace every placeholder. -->
 
-An editable GitHub profile README system for a developing software engineer with a product-design mindset. The visual language pairs dark charcoal surfaces with electric blue highlights, minimal line icons, and a clear learning path.
+<div align="center">
+  <img src="assets/profile-hero.svg" alt="Roadmap-first software engineering profile banner" width="100%">
+</div>
 
-> Replace the sample name, handle, and links before publishing. This system intentionally has no project showcase section.
+<div align="center">
+  <strong>Developing software engineer with a product-design mindset.</strong><br>
+  Learning with intention and building toward useful, thoughtful products.
+</div>
 
-## Preview and structure
+<br>
 
-The profile is designed as a sequence: identity → current focus → roadmap → ways to connect. Keep the roadmap as the primary content. Use the assets in `assets/` as source artwork, then export optimized SVG or PNG files if your profile needs hosted images.
+## My learning roadmap
 
-```text
-roadmap-readme-design-system/
-├── README.md
-├── DESIGN-GUIDE.md
-├── CUSTOMIZATION-CHECKLIST.md
-├── assets/
-│   ├── design-tokens.css
-│   ├── hero.svg
-│   ├── roadmap.svg
-│   └── divider.svg
-└── docs/
-    └── README-EXAMPLE.md
-```
+<div align="center">
+  <img src="assets/roadmap.svg" alt="Learning roadmap: Foundations, Software Engineering, Production Systems, AI Engineering, and Product Building" width="100%">
+</div>
 
-## Quick start
+### Current focus
 
-1. Open `docs/README-EXAMPLE.md` and personalize its profile fields and focus statement.
-2. Open SVG artwork in Figma (or a vector editor) to change the composition, line icons, and labels.
-3. Keep colors aligned with `assets/design-tokens.css` and the token table in `DESIGN-GUIDE.md`.
-4. Export the artwork to your profile repository, usually as `assets/profile-hero.svg`, `assets/roadmap.svg`, and `assets/divider.svg`.
-5. Copy the example into the profile repository's root `README.md`, update the image paths, and preview it on GitHub.
+**Software engineering** — strengthening the habits and skills that help turn ideas into maintainable, reliable software.
 
-GitHub profile READMEs are Markdown, so the SVGs must be committed to a public repository or otherwise hosted at URLs GitHub can access. Test SVG rendering in the GitHub preview after export.
+### The path
 
-## Customization map
+1. **Foundations** — programming fundamentals, problem solving, and core concepts.
+2. **Software engineering** — maintainable code, architecture, collaboration, and testing.
+3. **Production systems** — deployment, reliability, observability, and operating real software.
+4. **AI engineering** — building useful AI-powered systems with sound engineering practice.
+5. **Product building** — turning user needs into complete, polished products.
 
-| Want to change | Edit |
-| --- | --- |
-| Charcoal, blue, text, or border colors | `assets/design-tokens.css`; then update matching SVG attributes or use Figma's color styles |
-| Hero headline, subtitle, or identity | `assets/hero.svg` and `docs/README-EXAMPLE.md` |
-| Roadmap steps, icons, or current stage | `assets/roadmap.svg` and the roadmap section in the example |
-| Separator weight and color | `assets/divider.svg` |
-| Layout/export/publishing decisions | `DESIGN-GUIDE.md` |
-| Final pre-publish checks | `CUSTOMIZATION-CHECKLIST.md` |
+<div align="center">
+  <img src="assets/divider.svg" alt="Section divider" width="100%">
+</div>
 
-## Design principles
+## A little about me
 
-- **Roadmap first:** show the direction and current stage before any optional profile details.
-- **Product mindset:** connect engineering foundations to useful products and thoughtful experiences.
-- **Minimal line icons:** consistent stroke weight, rounded caps, no decorative icon fills.
-- **Central tokens:** use the documented palette instead of introducing one-off colors.
-- **Editable sources:** keep SVG source files in the repository and use Figma for visual editing.
-- **No project gallery:** the system deliberately excludes project cards, showcase grids, and featured repositories.
+- I’m **[Your Name]** (`[@HomafarSharifi](https://github.com/HomafarSharifi)`).
+- I care about the connection between **good engineering** and **good product experiences**.
+- I’m currently learning **[current topic]** and practicing **[current habit or skill]**.
+- I’m working toward building software that is useful, reliable, and easy to use.
 
-See [DESIGN-GUIDE.md](DESIGN-GUIDE.md) for specifications and [CUSTOMIZATION-CHECKLIST.md](CUSTOMIZATION-CHECKLIST.md) for the publishing workflow.
-=======
-## Hi there 👋
+## Connect
 
-<!--
-**HomafarSharifi/HomafarSharifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [LinkedIn](https://www.linkedin.com/in/your-handle/)
+- [Email](homafarSharifi@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> origin/main
+<!-- Keep the learning path as the main story. This template intentionally has no project showcase. -->

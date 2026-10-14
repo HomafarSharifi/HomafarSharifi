@@ -1,10 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-labelledby="title desc">
-  <title id="title">Electric blue profile section divider</title>
-  <desc id="desc">A fine charcoal line interrupted by a small electric blue roadmap marker.</desc>
-  <!-- Tokens: blue #3B82F6, bright blue #60A5FA, line #2A3543 -->
-  <g id="divider" fill="none" stroke-linecap="round">
-    <path d="M0 24H560M640 24H1200" stroke="#2A3543" stroke-width="2"/>
-    <path d="M560 24h24l16-12 16 24 16-12h8" stroke="#3B82F6" stroke-width="2"/>
-    <circle cx="600" cy="24" r="4" fill="#60A5FA" stroke="none"/>
-  </g>
+<svg width="1200" height="48" viewBox="0 0 1200 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_750_386)">
+<path d="M0 24H560M640 24H1200" stroke="#2A3543" stroke-width="2" stroke-linecap="round"/>
+<path d="M560 24H584L600 12L616 36L632 24H640" stroke="#0071FF" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round"/>
+<path d="M644 28C646.209 28 648 26.2091 648 24C648 21.7909 646.209 20 644 20C641.791 20 640 21.7909 640 24C640 26.2091 641.791 28 644 28Z" fill="#0071FF"/>
+</g>
+<defs>
+<clipPath id="clip0_750_386">
+<rect width="1200" height="48" fill="white"/>
+</clipPath>
+</defs>
 </svg>

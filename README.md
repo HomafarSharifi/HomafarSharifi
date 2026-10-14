@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Roadmap-first GitHub profile README
 
 An editable GitHub profile README system for a developing software engineer with a product-design mindset. The visual language pairs dark charcoal surfaces with electric blue highlights, minimal line icons, and a clear learning path.
@@ -53,3 +54,21 @@ GitHub profile READMEs are Markdown, so the SVGs must be committed to a public r
 - **No project gallery:** the system deliberately excludes project cards, showcase grids, and featured repositories.
 
 See [DESIGN-GUIDE.md](DESIGN-GUIDE.md) for specifications and [CUSTOMIZATION-CHECKLIST.md](CUSTOMIZATION-CHECKLIST.md) for the publishing workflow.
+=======
+## Hi there 👋
+
+<!--
+**HomafarSharifi/HomafarSharifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> origin/main

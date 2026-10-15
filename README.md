@@ -1,7 +1,5 @@
-<!-- Copy into the root README.md of the GitHub profile repository and replace every placeholder. -->
-
 <div align="center">
-  <img src="assets/hero.svg" alt="Roadmap-first software engineering profile banner" width="100%">
+  <img src="https://raw.githubusercontent.com/HomafarSharifi/HomafarSharifi/main/assets/hero.svg" alt="Homafar Sharifi — developing software engineer with a product-design mindset" width="100%">
 </div>
 
 <div align="center">
@@ -14,7 +12,7 @@
 ## My learning roadmap
 
 <div align="center">
-  <img src="assets/roadmap.svg" alt="Learning roadmap: Foundations, Software Engineering, Production Systems, AI Engineering, and Product Building" width="100%">
+  <img src="https://raw.githubusercontent.com/HomafarSharifi/HomafarSharifi/main/assets/roadmap.svg" alt="Learning roadmap: Foundations, Software Engineering, Production Systems, AI Engineering, and Product Building" width="100%">
 </div>
 
 ### Current focus
@@ -30,19 +28,34 @@
 5. **Product building** — turning user needs into complete, polished products.
 
 <div align="center">
-  <img src="assets/divider.svg" alt="Section divider" width="100%">
+  <img src="https://raw.githubusercontent.com/HomafarSharifi/HomafarSharifi/main/assets/divider.svg" alt="Section divider" width="100%">
 </div>
 
-## A little about me
+## About
 
-- I’m **Homafar Sharifi** (`[@HomafarSharifi](https://github.com/HomafarSharifi)`).
-- I care about the connection between **good engineering** and **good product experiences**.
-- I’m currently learning **Database** and practicing **Python**.
-- I’m working toward building software that is useful, reliable, and easy to use.
+I’m **Homafar Sharifi**. I care about the connection between good engineering and good product experiences, and I’m working toward building software that is useful, reliable, and easy to use.
+
+## Skills, Languages & Software
+
+> A living list of the skills and tools I know and use. I update it as I learn.
+
+### Skills
+
+<!-- Add your engineering, design, and product skills here. -->
+
+### Programming languages
+
+<!-- Add the programming languages you know here. -->
+
+### Software & tools
+
+<!-- Add the software, frameworks, and tools you use here. -->
+
+## Documents & Certificates
+
+<!-- Add links to documents and certificates hosted in this repository or elsewhere. -->
+<!-- Example: - [Certificate name](URL) — issuer, year -->
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-handle/)
-- [Email](homafarSharifi@gmail.com)
-
-<!-- Keep the learning path as the main story. This template intentionally has no project showcase. -->
+- [GitHub](https://github.com/HomafarSharifi)

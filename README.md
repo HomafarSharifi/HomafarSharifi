@@ -121,6 +121,14 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
 
 - Not the Worst Photographer in the World
 
+## Interests
+
+- 🎮 Action and puzzle games
+- 🗣️ Learning Spanish and Japanese
+- 🎵 Spanish music, Brazilian funk, and classic Persian music
+- 🎬 Action movies and anime
+- 🎨 Art
+
 ## Connect
 
 - [GitHub](https://github.com/HomafarSharifi)

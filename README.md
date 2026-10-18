@@ -93,27 +93,33 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
 - Claude Code
 - Claude
 
+
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT logo">
 - AI Foundation
 
+
 <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white" alt="Cisco logo">
 - Introduction to Cybersecurity
+
 
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera logo">
 - C++ from Packt
 - Python from Google
 - Agile Project Management from Google
 
+
 <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black" alt="DataCamp logo">
 - AI-Assisted Coding for Developers
 - Python
 - SQL
+
 
 <img src="https://img.shields.io/badge/HP-0096D6?style=flat&logo=hp&logoColor=white" alt="HP logo">
 - AI for Beginners
 - Design Thinking
 - Your Target Audience
 - Social Media Marketing
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Icelandairlogo.svg" alt="Icelandair logo" height="22">
 - Not the Worst Photographer in the World

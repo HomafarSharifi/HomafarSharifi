@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="830" viewBox="0 0 24 830" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Certificate timeline</title>
-  <desc id="desc">A clean vertical line with one stationary blue marker.</desc>
-  <path d="M12 12V818" stroke="#344256" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="12" cy="24" r="5" fill="#36A3FF" stroke="#101820" stroke-width="2"/>
-</svg>

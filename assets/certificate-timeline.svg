@@ -1,13 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="780" viewBox="0 0 24 780" fill="none" role="img" aria-labelledby="title">
-  <title id="title">Animated certificate timeline</title>
-  <path d="M12 12V768" stroke="#344256" stroke-width="2" stroke-linecap="round"/>
-  <g fill="#36A3FF" stroke="#101820" stroke-width="2">
-    <circle cx="12" cy="22" r="6"><animate attributeName="r" values="5;7;5" dur="2.8s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="2.8s" begin="0s" repeatCount="indefinite"/></circle>
-    <circle cx="12" cy="135" r="6"><animate attributeName="r" values="5;7;5" dur="3.2s" begin="-.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="3.2s" begin="-.6s" repeatCount="indefinite"/></circle>
-    <circle cx="12" cy="205" r="6"><animate attributeName="r" values="5;7;5" dur="2.9s" begin="-1.1s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="2.9s" begin="-1.1s" repeatCount="indefinite"/></circle>
-    <circle cx="12" cy="275" r="6"><animate attributeName="r" values="5;7;5" dur="3.4s" begin="-.3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="3.4s" begin="-.3s" repeatCount="indefinite"/></circle>
-    <circle cx="12" cy="390" r="6"><animate attributeName="r" values="5;7;5" dur="3s" begin="-1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="3s" begin="-1.5s" repeatCount="indefinite"/></circle>
-    <circle cx="12" cy="540" r="6"><animate attributeName="r" values="5;7;5" dur="3.3s" begin="-.9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="3.3s" begin="-.9s" repeatCount="indefinite"/></circle>
-    <circle cx="12" cy="690" r="6"><animate attributeName="r" values="5;7;5" dur="2.7s" begin="-1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="2.7s" begin="-1.8s" repeatCount="indefinite"/></circle>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="830" viewBox="0 0 24 830" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Certificate timeline</title>
+  <desc id="desc">A clean vertical line with one stationary blue marker.</desc>
+  <path d="M12 12V818" stroke="#344256" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="12" cy="24" r="5" fill="#36A3FF" stroke="#101820" stroke-width="2"/>
 </svg>

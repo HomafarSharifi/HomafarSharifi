@@ -88,7 +88,7 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
 
 ## Documents & Certificates
 
-<img align="left" src="./assets/certificate-timeline.svg" width="20" height="780" alt="Timeline with softly pulsing company markers">
+<img align="left" src="./assets/certificate-timeline.svg" width="20" height="830" alt="Certificate timeline">
 
 <img src="https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white" alt="Anthropic logo"> <strong>Anthropic</strong>
 - Teaching AI Fluency

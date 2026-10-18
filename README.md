@@ -150,11 +150,15 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
 
 ## Interests
 
+<img align="right" src="./assets/lurking-cat.svg" width="180" height="180" alt="Lurking cat animation in the primary blue color">
+
 -  Action and puzzle games
 -  Learning Spanish and Japanese
 -  Spanish music, Brazilian funk, and classic Persian music
 -  Action movies and anime
 -  Art
+
+<br clear="right">
 
 ## Connect
 

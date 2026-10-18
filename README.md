@@ -90,10 +90,10 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
 
 <table>
   <tr>
-    <td width="26%" align="center" valign="top">
-      <img src="./assets/certificate-cats.gif" width="180" alt="Two pixel-art cats playing around a pillar">
+    <td width="10%" align="center" valign="top">
+      <img src="./assets/certificate-pillar.svg" width="38" height="620" alt="A narrow decorative pillar">
     </td>
-    <td width="74%" valign="top">
+    <td width="90%" valign="top">
       <p><img src="https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white" alt="Anthropic logo"> <strong>Anthropic</strong></p>
       <ul>
         <li>Teaching AI Fluency</li>
@@ -101,7 +101,7 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
         <li>Claude</li>
       </ul>
       <p><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT logo"> <strong>ChatGPT</strong></p>
-      <ul><li>AI Foundation — <a href="./GPT.json">verifiable credential (JSON)</a></li></ul>
+      <ul><li>AI Foundation</li></ul>
       <p><img src="https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white" alt="Cisco logo"> <strong>Cisco</strong></p>
       <ul><li>Introduction to Cybersecurity</li></ul>
       <p><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera logo"> <strong>Coursera</strong></p>

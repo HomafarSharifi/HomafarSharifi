@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="620" viewBox="0 0 48 620" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Certificate pillar</title>
+  <desc id="desc">A slim architectural pillar in charcoal and muted blue with a small electric blue detail.</desc>
+  <defs>
+    <linearGradient id="shaft" x1="13" y1="0" x2="35" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#182333"/>
+      <stop offset=".35" stop-color="#35465B"/>
+      <stop offset=".58" stop-color="#26364A"/>
+      <stop offset="1" stop-color="#111B28"/>
+    </linearGradient>
+    <linearGradient id="cap" x1="5" y1="0" x2="43" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#253449"/>
+      <stop offset=".5" stop-color="#61748B"/>
+      <stop offset="1" stop-color="#202E41"/>
+    </linearGradient>
+  </defs>
+  <path d="M5 11 9 5h30l4 6-3 5H8l-3-5Z" fill="url(#cap)" stroke="#8293A8" stroke-opacity=".65"/>
+  <path d="M8 18h32v8H8z" fill="#1B293A" stroke="#61748B" stroke-opacity=".8"/>
+  <path d="M13 27h22v566H13z" fill="url(#shaft)" stroke="#8293A8" stroke-opacity=".55"/>
+  <path d="M17 31v558M31 31v558" stroke="#A9B8C9" stroke-opacity=".25" stroke-width="1.4"/>
+  <path d="M20 31v558M28 31v558" stroke="#0C1521" stroke-opacity=".55" stroke-width="1.2"/>
+  <path d="M8 594h32v8H8z" fill="#1B293A" stroke="#61748B" stroke-opacity=".8"/>
+  <path d="m5 609 3-5h32l3 5-4 6H9l-4-6Z" fill="url(#cap)" stroke="#8293A8" stroke-opacity=".65"/>
+  <path d="M24 4v6" stroke="#36A3FF" stroke-width="2" stroke-linecap="round"/>
+</svg>

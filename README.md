@@ -87,49 +87,65 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
 </p>
 
 ## Documents & Certificates
-<p>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white" alt="Anthropic logo">
-- Teaching AI Fluency
-- Claude Code
-- Claude
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT logo">
-- AI Foundation
-</p>
+<div>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white" alt="Anthropic logo">
+  <ul>
+    <li>Teaching AI Fluency</li>
+    <li>Claude Code</li>
+    <li>Claude</li>
+  </ul>
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white" alt="Cisco logo">
-- Introduction to Cybersecurity
-</p>
+<div>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT logo">
+  <ul>
+    <li>AI Foundation</li>
+  </ul>
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera logo">
-- C++ from Packt
-- Python from Google
-- Agile Project Management from Google
-</p>
+<div>
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white" alt="Cisco logo">
+  <ul>
+    <li>Introduction to Cybersecurity</li>
+  </ul>
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black" alt="DataCamp logo">
-- AI-Assisted Coding for Developers
-- Python
-- SQL
-</p>
+<div>
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera logo">
+  <ul>
+    <li>C++ from Packt</li>
+    <li>Python from Google</li>
+    <li>Agile Project Management from Google</li>
+  </ul>
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/HP-0096D6?style=flat&logo=hp&logoColor=white" alt="HP logo">
-- AI for Beginners
-- Design Thinking
-- Your Target Audience
-- Social Media Marketing
-</p>
+<div>
+  <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black" alt="DataCamp logo">
+  <ul>
+    <li>AI-Assisted Coding for Developers</li>
+    <li>Python</li>
+    <li>SQL</li>
+  </ul>
+</div>
 
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Icelandairlogo.svg" alt="Icelandair logo" height="22">
-- Not the Worst Photographer in the World
-</p>
+<div>
+  <img src="https://img.shields.io/badge/HP-0096D6?style=flat&logo=hp&logoColor=white" alt="HP logo">
+  <ul>
+    <li>AI for Beginners</li>
+    <li>Design Thinking</li>
+    <li>Your Target Audience</li>
+    <li>Social Media Marketing</li>
+  </ul>
+</div>
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Icelandairlogo.svg" alt="Icelandair logo" height="22">
+  <ul>
+    <li>Not the Worst Photographer in the World</li>
+  </ul>
+</div>
+
 
 
 ## Interests

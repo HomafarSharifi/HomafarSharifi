@@ -41,12 +41,12 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
 
 ### Skills
 
--  Programming fundamentals and problem solving
--  Design thinking, UI/UX, and product-focused building
--  AI fluency and AI-assisted coding
--  Cybersecurity fundamentals
--  Agile project management
--  Target-audience awareness and social media marketing
+- <img src="./assets/icons/code-xml.svg" width="18" height="18" align="middle" alt=""> Programming fundamentals and problem solving
+- <img src="./assets/icons/lightbulb.svg" width="18" height="18" align="middle" alt=""> Design thinking, UI/UX, and product-focused building
+- <img src="./assets/icons/brain-circuit.svg" width="18" height="18" align="middle" alt=""> AI fluency and AI-assisted coding
+- <img src="./assets/icons/shield-check.svg" width="18" height="18" align="middle" alt=""> Cybersecurity fundamentals
+- <img src="./assets/icons/workflow.svg" width="18" height="18" align="middle" alt=""> Agile project management
+- <img src="./assets/icons/target.svg" width="18" height="18" align="middle" alt=""> Target-audience awareness and social media marketing
 
 ### Programming languages
 
@@ -152,11 +152,11 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
 
 <img align="right" src="./assets/lurking-cat.svg" width="180" height="180" alt="Lurking cat animation in the primary blue color">
 
--  Action and puzzle games
--  Learning Spanish and Japanese
--  Spanish music, Brazilian funk, and classic Persian music
--  Action movies and anime
--  Art
+- <img src="./assets/icons/gamepad-2.svg" width="18" height="18" align="middle" alt=""> Action and puzzle games
+- <img src="./assets/icons/languages.svg" width="18" height="18" align="middle" alt=""> Learning Spanish and Japanese
+- <img src="./assets/icons/disc-2.svg" width="18" height="18" align="middle" alt=""> Spanish music, Brazilian funk, and classic Persian music
+- <img src="./assets/icons/clapperboard.svg" width="18" height="18" align="middle" alt=""> Action movies and anime
+- <img src="./assets/icons/palette.svg" width="18" height="18" align="middle" alt=""> Art
 
 <br clear="right">
 

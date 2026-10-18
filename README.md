@@ -87,44 +87,50 @@ I’m **Homafar Sharifi**. I care about the connection between good engineering 
 </p>
 
 ## Documents & Certificates
-
+<p>
 <img src="https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white" alt="Anthropic logo">
 - Teaching AI Fluency
 - Claude Code
 - Claude
+</p>
 
-
+<p>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT logo">
 - AI Foundation
+</p>
 
-
+<p>
 <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white" alt="Cisco logo">
 - Introduction to Cybersecurity
+</p>
 
-
+<p>
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera logo">
 - C++ from Packt
 - Python from Google
 - Agile Project Management from Google
+</p>
 
-
+<p>
 <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=black" alt="DataCamp logo">
 - AI-Assisted Coding for Developers
 - Python
 - SQL
+</p>
 
-
+<p>
 <img src="https://img.shields.io/badge/HP-0096D6?style=flat&logo=hp&logoColor=white" alt="HP logo">
 - AI for Beginners
 - Design Thinking
 - Your Target Audience
 - Social Media Marketing
+</p>
 
-
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Icelandairlogo.svg" alt="Icelandair logo" height="22">
 - Not the Worst Photographer in the World
+</p>
 
-<br clear="left">
 
 ## Interests
 

@@ -1,0 +1,37 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/credentials/v2"
+  ],
+  "type": [
+    "VerifiableCredential"
+  ],
+  "id": "https://www.credential.net/2087179b-e2e4-45ad-a1e8-e3a56be860b9",
+  "name": "AI Foundations",
+  "description": "Learn the basics of AI, large language models, and ChatGPT. You’ll practice giving clear instructions, adding useful context, reviewing outputs, and using AI responsibly in everyday work.",
+  "image": "https://api.accredible.com/v1/credentials/9z06dzhj/artifact/badge?key=208bc20f160bb25774d26892b331745fc1d8d90712fccfe33811b858d2100fbe",
+  "issuer": {
+    "id": "did:web:api.accredible.com:v1:verifiable_credential:organizations:271181",
+    "name": "OpenAI Academy"
+  },
+  "validFrom": "2026-10-17T00:00:00Z",
+  "validUntil": "2027-04-17T00:00:00Z",
+  "credentialSubject": {
+    "name": "Homafar Sharifi",
+    "identifier": {
+      "type": "IdentityObject",
+      "hashed": true,
+      "identityHash": "sha256$b71b407397dc0d8a2ca89a2fcfbdf59f8be4c5f569ba4269ef547f453731c1ea",
+      "identityType": "email",
+      "salt": "2b1cf4cc55966212966ace3877989083"
+    }
+  },
+  "completionDate": "2026-10-17",
+  "proof": {
+    "type": "DataIntegrityProof",
+    "cryptosuite": "eddsa-rdfc-2022",
+    "created": "2026-10-18T06:56:12Z",
+    "verificationMethod": "did:web:api.accredible.com:v1:verifiable_credential:organizations:271181#fda25212-ac7e-11f1-8a94-dbe54db5d844",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "z41HC3bACLQWz5SBn1DUWF9h9LPd1Qu9uVeuygYzw71Br5xEW9T4e5Mnmx8Ady76FVQkYjMDJ6PXWEPP8xLSb8bvm"
+  }
+}
